@@ -1,0 +1,12 @@
+C:\dev\projects\TestDocker\TestDocker.Domain\bin\Debug\net6.0\TestDocker.Domain.deps.json
+C:\dev\projects\TestDocker\TestDocker.Domain\bin\Debug\net6.0\TestDocker.Domain.dll
+C:\dev\projects\TestDocker\TestDocker.Domain\bin\Debug\net6.0\TestDocker.Domain.pdb
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.csproj.AssemblyReference.cache
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.AssemblyInfoInputs.cache
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.AssemblyInfo.cs
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.csproj.CoreCompileInputs.cache
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.dll
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\refint\TestDocker.Domain.dll
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\TestDocker.Domain.pdb
+C:\dev\projects\TestDocker\TestDocker.Domain\obj\Debug\net6.0\ref\TestDocker.Domain.dll

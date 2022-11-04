@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestDocker.Application/1.0.0": {
+        "dependencies": {
+          "TestDocker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TestDocker.Application.dll": {}
+        }
+      },
+      "TestDocker.Domain/1.0.0": {
+        "runtime": {
+          "TestDocker.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDocker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestDocker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
